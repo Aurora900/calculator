@@ -1,0 +1,3 @@
+This code requires a library called breezyswing which can be found here:http://facultyweb.cs.wwu.edu/~martin/Software%20Packages/BreezySwing/Default.htm
+
+Other than that, it's a simple calculator with a GUI written in java.
